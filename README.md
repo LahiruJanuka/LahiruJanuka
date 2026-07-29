@@ -16,7 +16,7 @@
 
  🧠 Exploring AI/ML & Data Science 
 
- 👨‍💻 All of my projects are available at [lahirujanuka.vercel.app]()
+ 👨‍💻 All of my projects are available at <a href="https://lahirujanuka.vercel.app/" target="blank">Click Me</a>
 
  📫 How to reach me **lahirujanuka1120@gmail.com**
 
