@@ -21,7 +21,7 @@ januka@fedora ~ % whoami
 ```yaml
 name: Lahiru Januka
 role: CS & Engineering undergrad, University of Moratuwa
-right_now: digging through Silberschatz's OS Concepts & DB System Concepts
+right_now: building SysGuard, exploring microservices architecture, and learning DevOps fundamentals
 building: full-stack apps with React, Tailwind CSS, Django REST Framework
 curious_about:
   - DevOps, Docker, CI/CD, cloud infrastructure, and automation
